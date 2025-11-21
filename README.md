@@ -27,7 +27,7 @@
 <div align="center">
 
 ### ⭐ Estatísticas Gerais
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU-isaiasNsantos&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=isaiasNsantos&show_icons=true&theme=tokyonight"/>
 
 ### 🔥 Streak
 <img height="170" src="https://streak-stats.demolab.com/?user=SEU-isaiasNsantos&theme=tokyonight"/>
