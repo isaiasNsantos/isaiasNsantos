@@ -27,13 +27,13 @@
 <div align="center">
 
 ### ⭐ Estatísticas Gerais
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU-isaiasNsantos&show_icons=true&theme=tokyonight"/>
 
 ### 🔥 Streak
-<img height="170" src="https://streak-stats.demolab.com/?user=SEU-USUARIO&theme=tokyonight"/>
+<img height="170" src="https://streak-stats.demolab.com/?user=SEU-isaiasNsantos&theme=tokyonight"/>
 
 ### 📊 Linguagens mais usadas
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaiasNsantos&layout=compact&theme=tokyonight"/>
 
 </div>
 
