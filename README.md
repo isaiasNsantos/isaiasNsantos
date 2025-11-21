@@ -14,13 +14,18 @@
 ## 🛠️ Languages & Tools
 
 <div>
-  <img src="https://img.shields.io/badge/Python-ff4ecd?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-8ed0ff?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-ff4ecd?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-8ed0ff?style=for-the-badge&logo=numpy&logoColor=white"/>
-</div>
+  <!-- Python (cores oficiais) -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
----
+  <!-- Django (cores oficiais) -->
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+
+  <!-- Pandas (cores oficiais) -->
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+  <!-- Numpy (mantido com a cor oficial) -->
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</div>
 
 ## 🐍 GitHub Status
 
