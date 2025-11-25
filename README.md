@@ -145,18 +145,17 @@ skills_in_progress = {
 
 ## 🎓 Formação
 
-* 🎯 Estudante de Engenharia de Software / ADS
+* 🎯 Graduado em Tecnologia em Segurança Da Informação
 * 📚 Cursos complementares em Python, Django e Backend
-* 🚀 Participação em projetos open source e hackathons
+
 
 ---
 
 ## 💼 Experiência
 
-* 🐍 Desenvolvimento de APIs REST com Python
-* 🗄️ Modelagem e consulta em bancos SQL
+* 🐍 Desenvolvimento de APIs com Python
 * 🔧 Versionamento com Git/GitHub
-* 🐳 Noções de Docker e DevOps
+
 
 <div align="center">
 
