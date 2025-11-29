@@ -102,9 +102,8 @@ skills_in_progress = {
 
 * Domínio de Python intermediário
 * Desenvolvimento com Django
-* Especialização em FastAPI
 * Projetos com microsserviços
-* Certificação em cloud (AWS/Azure)
+
 
 ---
 
