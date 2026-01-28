@@ -93,7 +93,6 @@ skills_in_progress = {
     "Python Backend": "🟢🟢🟢🟢⚪ 80%",
     "Django/FastAPI": "🟢🟢🟢⚪⚪ 60%", 
     "Banco de Dados": "🟢🟢🟢🟢⚪ 80%",
-    "Docker & DevOps": "🟢🟢⚪⚪⚪ 40%",
     "Arquitetura de Software": "🟢🟢🟢⚪⚪ 60%"
 }
 ```
@@ -111,10 +110,8 @@ skills_in_progress = {
 
 <div align="center">
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white\&labelColor=000000)
-![Portfolio](https://img.shields.io/badge/Portfolio-FF7130?style=for-the-badge\&logo=firefox\&logoColor=white\&labelColor=000000)
-![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white\&labelColor=000000)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white\&labelColor=000000)
+![LinkedIn](https://www.linkedin.com/in/isaias-isaias-nogueira-santos-nogueira-santos-4a039a55/)
+![GitHub](https://github.com/isaiasNsantos)
 
 </div>
 
