@@ -1,17 +1,16 @@
-# 👨‍💻 Isaias Nogueira Santos
+# Isaias Nogueira Santos
 
-### 🐍 Python Backend Developer
+### Python Backend Developer
 
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4,6,8,10&height=250&section=header&text=Isaias%20Nogueira&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Transformando%20café%20em%20código%20☕&descAlignY=55&descAlign=50)
 
-</div>
+</div>    
 
 ---
----
 
-## ⚡ Sobre Mim
+## 👨‍💻 Sobre Mim
 
 ```python
 class BackendDeveloper:
@@ -36,12 +35,9 @@ class BackendDeveloper:
     
     def say_hello(self):
         print("Olá, dev! Bora codar? 🚀")
+'''
 
-me = BackendDeveloper()
-me.say_hello()
-
----
----
+```
 
 ## 🛠️ Tech Stack & Tools
 
