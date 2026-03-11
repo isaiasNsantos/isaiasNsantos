@@ -9,6 +9,7 @@
 </div>
 
 ---
+---
 
 ## ⚡ Sobre Mim
 
@@ -39,6 +40,7 @@ class BackendDeveloper:
 me = BackendDeveloper()
 me.say_hello()
 
+---
 ---
 
 ## 🛠️ Tech Stack & Tools
