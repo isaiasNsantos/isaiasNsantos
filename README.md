@@ -59,3 +59,4 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=isaiasNsantos&lay
 https://streak-stats.demolab.com?user=isaiasNsantos&theme=radical&border_radius=10
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=isaiasNsantos&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" width="100%"/></div>
+
