@@ -49,3 +49,13 @@ https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoCol
 https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
 
 </div>
+
+📊 GitHub Stats (FUNCIONANDO ✅)
+<div align="center">
+https://github-readme-stats.vercel.app/api?username=isaiasNsantos&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=isaiasNsantos&layout=compact&langs_count=8&theme=radical&border_radius=10
+
+https://streak-stats.demolab.com?user=isaiasNsantos&theme=radical&border_radius=10
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=isaiasNsantos&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" width="100%"/></div>
